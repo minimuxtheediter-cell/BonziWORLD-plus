@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <atom:link href="https://www.bonzi.gay/changelog.rss" rel="self" type="application/rss+xml" />
+        <title>BonziWORLD Changelog</title>
+        <link>https://www.bonzi.gay/changelog.html</link>
+        <image>
+            <url>http://www.bonzi.gay/img/readme/logo.png</url>
+            <title>BonziWORLD logo</title>
+            <link>https://www.bonzi.gay</link>
+        </image>
+        <description>The changelog for BonziWORLD.</description>
+        <language>en-us</language>
+
+        <item>
+            <title>Update 1.2.1 released</title>
+            <guid isPermaLink="false">1.2.1</guid>
+            <pubDate>Mon, 14 Apr 2025 03:31:33 +0000</pubDate>
+            <description>
+<![CDATA[Thanks to @david_egan_bia for reporting this.
+<ul>
+    <li>Chat logger doesn't lag the site anymore.</li>
+</ul>]]>
+            </description>
+        </item>
+
+        <item>
+            <title>Update 1.2.0 released</title>
+            <guid isPermaLink="false">1.2.0</guid>
+            <pubDate>Sun, 13 Apr 2025 14:08:55 +0000</pubDate>
+            <description>
+<![CDATA[<ul>
+    <li>Join and leave messages</li>
+    <li>/settings command. Options include:
+        <ul>
+            <li>Images can be hidden until clicked</li>
+            <li>Words can be blacklisted</li>
+            <li>Classic background</li>
+        </ul>
+    </li>
+    <li><span style="color: #789922">&gt;add greentext</span></li>
+    <li>Polls now get pronounced</li>
+    <li>Touchscreen dragging is less janky</li>
+</ul>]]>
+            </description>
+        </item>
+
+        <item>
+            <title>Update 1.1.1 released</title>
+            <guid isPermaLink="false">1.1.1</guid>
+            <pubDate>Tue, 01 Apr 2025 22:21:11 +0000</pubDate>
+            <description>
+<![CDATA[Patch to add the new colors from ziggymoncher
+<ul>
+    <li>Added /color pink</li>
+    <li>Updated /color cyan and yellow</li>
+</ul>]]>
+            </description>
+        </item>
+
+        <item>
+            <title>Update 1.1.0 released</title>
+            <guid isPermaLink="false">1.1.0</guid>
+            <pubDate>Tue, 01 Apr 2025 11:31:21 +0000</pubDate>
+            <description>
+<![CDATA[Small little update. This should hopefully make it feel 10x less janky for now
+<ul>
+    <li>Added changelog</li>
+    <li>Fixed stray pixels appearing in certain hats</li>
+    <li>Images no longer break chat log scrolling</li>
+    <li>Added /color cyan and /color yellow</li>
+    <li>Added /hat tophat</li>
+    <li>Fixed automatic rejoining</li>
+    <li>Added /bass to right click</li>
+    <li>URLS will be automatically linked.</li>
+    <li>You can use \n in a message to create a newline.</li>
+</ul>]]>
+            </description>
+        </item>
+
+        <item>
+            <title>Update 1.0.1 released</title>
+            <guid isPermaLink="false">1.0.1</guid>
+            <pubDate>Tue, 01 Apr 2025 11:31:20 +0000</pubDate>
+            <description>
+<![CDATA[Shoutout to THLPLE for this one
+<ul>
+    <li>Added automatic rejoining</li>
+</ul>]]>
+            </description>
+        </item>
+    </channel>
+</rss>
